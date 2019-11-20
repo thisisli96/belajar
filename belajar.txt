@@ -1,6 +1,8 @@
 resolusi belajar
 -menyelesaikan video minimal 1 perhari
 -lanjut studi kasus di udemy
+-bulan materi dasar telah selesai
+-masuk ke studi kasus clone IG
 
 yang terlewat 
 -aplikasi tiket saya dibuat ulang karena error.
