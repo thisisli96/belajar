@@ -1,4 +1,7 @@
 belajar bulan desember
 -menyelesaaikan semua contoh di udemy
  * cara nenambahka image vidoe dan suara 
--membuat ig
+ * menyelesaikan semua layout
+ *upload ke github
+
+ 
